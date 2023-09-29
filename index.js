@@ -23,3 +23,8 @@ function cambiar1(){
    
     document.getElementById("demo1").style.backgroundColor = mensaje();
 }
+
+function cambiar2(){
+   
+    document.getElementById("demo2").style.backgroundColor = mensaje();
+}
